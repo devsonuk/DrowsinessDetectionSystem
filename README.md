@@ -1,4 +1,4 @@
-# Drowiness Detection System **[here](https://github.com/devsonukr/DrowsinessDetectionSystem)**
+# Drowiness Detection System **[see on git](https://github.com/devsonukr/DrowsinessDetectionSystem)**
 -----------------------------
 
 ## Setup
